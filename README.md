@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kfarrux2005@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/3SX6EpN](bit.ly/3SX6EpN)
+- 📄 Know about my experiences [bit.ly/3SX6EpN](https://bit.ly/3SX6EpN)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
