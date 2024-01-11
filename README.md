@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 📝 I regularly write articles on [Frameworkanlib.t.me](Frameworkanlib.t.me)
-
 - 💬 Ask me about **MERN, PEVN**
 
 - 📫 How to reach me **kfarrux2005@gmail.com**
